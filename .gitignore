@@ -1,0 +1,15 @@
+# Ignore the .env file
+.env
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore other files and folders you don't want to commit
+.DS_Store
+
+# Ignore Hash folder
+TXHash/
+
+api_response.json
+GitHub.md
+# Ignore API_RESPONSe

@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@grafana/openapi-to-k6": "^0.4.1"
+  }
+}
